@@ -2,7 +2,7 @@
 An repository created by an artificial intelligence learner
 # Beginner's AI, Data Science, and Machine Learning Playground
 
-![Repository Logo or Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dartificial%2Bintelligence&psig=AOvVaw0Gi56GwWVaYY1nrkOyyGa5&ust=1691922409437000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPim9K701oADFQAAAAAdAAAAABAE.png)
+![Repository Logo or Banner](logo.png)
 
 Hello there! 👋 If you're just starting with AI, Data Science, or Machine Learning, this repository is your playground to learn, experiment, and have fun. Let's dive in together!
 

@@ -22,7 +22,7 @@ This repository is all about making AI, Data Science, and Machine Learning appro
 
 ## How to Get Started
 
-1. **Clone the Repository:** To get these fantastic resources on your computer, click the "Clone" button or use this command:
+1. **Clone the Repository:** To get these fantastic resources on your computer, click the "Clone" button or use this command:git clone https://github.com/Aadhirajan/AI-ML-DS-Hub
 
 2. **Explore:** Open the folders to find projects and tutorials. Start with the ones labeled "Beginner-Friendly."
 

@@ -1,2 +1,2 @@
 # AI-ML-DS-Hub
-An repository for an artificial intelligence aspirant
+An repository created by and artificial intelligence learner
